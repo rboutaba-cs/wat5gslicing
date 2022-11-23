@@ -9,7 +9,7 @@ Providing network services using 5G network slices involves several network slic
 
 - M. Sulaiman, A. Moyyedi, M. Ahmadi, M. A. Salahuddin, R. Boutaba and A. Saleh. Coordinated Slicing and Admission Control using Multi-Agent Deep Reinforcement Learning. IEEE Transactions on Network and Service Management. Accepted November 2022.
 - [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](http://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2022/SahaNOMS22.pdf) N. Saha, A. James, N. Shahriar, R. Boutaba, A. Saleh. Demonstrating Network Slice KPI Monitoring in a 5G Testbed. IEEE/IFIP Network Operations and Management Symposium (NOMS). Budapest, Hungary, April 25-29, 2022.
-- 
+
 - [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](http://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2022/SulaimanNOMS22.pdf) M. Sulaiman, A. Moayyedi, M. A. Salahuddin, R. Boutaba, A. Saleh. Multi-Agent Deep Reinforcement Learning for Slicing and Admission Control in 5G-CRAN. IEEE/IFIP Network Operations and Management Symposium (NOMS). Budapest, Hungary, April 25-29, 2022. **Recipient of the Best Paper Award.**
 
 - [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](http://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2022/JohariNOMS22.pdf) S. S. Johari, N. Shahriar, M. Tornatore, R. Boutaba, A. Saleh. Anomaly Detection and Localization in NFV Systems: An Unsupervised Learning Approach. IEEE/IFIP Network Operations and Management Symposium (NOMS). Budapest, Hungary, April 25-29, 2022. **Recipient of the Best Student Paper Award.**
