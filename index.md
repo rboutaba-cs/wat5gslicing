@@ -10,7 +10,7 @@ Providing network services using 5G network slices involves several network slic
 
 - [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2023/monarch.pdf) N. Saha, N. Shahriar, R. Boutaba and A. Saleh. MonArch: Network Slice Monitoring Architecture for Cloud Native 5G Deployments. IEEE/IFIP Network Operations and Management Symposium (NOMS). Miami, FL, USA, May 8-12, 2023. 
 
-- [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2023/scaling-upload.pdf) M. Sulaiman, M. Ahmadi, M. A. Salahuddin, R. Boutaba and A. Saleh. Generalizable Resource Scaling of 5G Slices using Constrained Reinforcement Learning. IEEE/IFIP Network Operations and Management Symposium (NOMS). Miami, FL, USA, May 8-12, 2023. 
+- [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2023/scaling-upload.pdf) M. Sulaiman, M. Ahmadi, M. A. Salahuddin, R. Boutaba and A. Saleh. Generalizable Resource Scaling of 5G Slices using Constrained Reinforcement Learning. IEEE/IFIP Network Operations and Management Symposium (NOMS). Miami, FL, USA, May 8-12, 2023. **Recipient of the Best Paper Award.**
 
 - [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2023/GNN-upload.pdf) A. Moyyedi, M. Ahmadi, M. A. Salahuddin, R. Boutaba and A. Saleh. Generalizable GNN-based 5G RAN/MEC Slicing and Admission Control in Metropolitan Networks. IEEE/IFIP Network Operations and Management Symposium (NOMS). Miami, FL, USA, May 8-12, 2023. 
 
