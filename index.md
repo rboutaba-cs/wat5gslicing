@@ -5,7 +5,12 @@
 Providing network services using 5G network slices involves several network slice life-cycle management steps, including slice instantiation, configuration and activation, followed by a run-time phase, and finally slice decommissioning. The diverse, demanding, and stringent QoS guarantees offered by 5G networks cannot be satisfied with traditional reactive human-in-the-loop management and operation approaches. Artificial Intelligence (AI) and Machine Learning (ML) will play a major role in 5G network operations and management to achieve network automation. The overarching goal of this project is to realize automated and data-driven 5G network life-cycle management, powered by recent advances in AI, ML, and large-scale data processing. It will address several challenging problems spanning slice orchestration, slice monitoring, and fault and performance management.
 
 ## Related Publications
-- Md. S. Towhid, N. S. Khan, N.Shahriar, M. Tornatore, R. Boutaba, A. Saleh. A Token-Prioritization Strategy for Handling Data Imbalance in Network-Change Ticket Classification. IEEE/ACM/IFIP Conference on Network and Service Management (CNSM). Niagara Falls, Canada, October 30 - November 2, 2023.
+
+- [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2023/SulaimanNOMS2025.pdf) M. Sulaiman, B. Sun, M. A. Salahuddin, R. Boutaba, A. Saleh. vNetRunner: Per-VNF Slice Modeling for 5G and Beyond Networks. IEEE/IFIP Network Operations and Management Symposium (NOMS). Honolulu, HI, USA, 12-16 May 2025. To appear.
+
+- [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://rboutaba.cs.uwaterloo.ca/Papers/Journals/2023/SahaTNSM2024.pdf) N. Saha, N. Shahriar, M. Sulaiman, N. Limam, R. Boutaba, A. Saleh. Monarch: Monitoring Architecture for 5G and Beyond Network Slices. IEEE Transactions on Network and Service Management (TNSM). Accepted September 2024.
+
+- [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2023/TowhidCNSM23.pdf) Md. S. Towhid, N. S. Khan, N.Shahriar, M. Tornatore, R. Boutaba, A. Saleh. A Token-Prioritization Strategy for Handling Data Imbalance in Network-Change Ticket Classification. IEEE/ACM/IFIP Conference on Network and Service Management (CNSM). Niagara Falls, Canada, October 30 - November 2, 2023.
 
 
 - [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2023/monarch.pdf) N. Saha, N. Shahriar, R. Boutaba and A. Saleh. MonArch: Network Slice Monitoring Architecture for Cloud Native 5G Deployments. IEEE/IFIP Network Operations and Management Symposium (NOMS). Miami, FL, USA, May 8-12, 2023. 
