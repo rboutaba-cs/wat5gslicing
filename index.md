@@ -5,6 +5,7 @@
 Providing network services using 5G network slices involves several network slice life-cycle management steps, including slice instantiation, configuration and activation, followed by a run-time phase, and finally slice decommissioning. The diverse, demanding, and stringent QoS guarantees offered by 5G networks cannot be satisfied with traditional reactive human-in-the-loop management and operation approaches. Artificial Intelligence (AI) and Machine Learning (ML) will play a major role in 5G network operations and management to achieve network automation. The overarching goal of this project is to realize automated and data-driven 5G network life-cycle management, powered by recent advances in AI, ML, and large-scale data processing. It will address several challenging problems spanning slice orchestration, slice monitoring, and fault and performance management.
 
 ## Related Publications
+- S. Johari, M. Tornatore, R. Boutaba and A. Saleh. Few-Shot Domain Adaptation for Effective Data Drift Mitigation in Network Management. International Conference on Distributed Computing Systems (ICDCS). Glascow, Scottland, UK. 20 July - 23 July, 2025. To appear.
 
 - [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](https://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2023/SulaimanNOMS2025.pdf) M. Sulaiman, B. Sun, M. A. Salahuddin, R. Boutaba, A. Saleh. vNetRunner: Per-VNF Slice Modeling for 5G and Beyond Networks. IEEE/IFIP Network Operations and Management Symposium (NOMS). Honolulu, HI, USA, 12-16 May 2025. To appear.
 
